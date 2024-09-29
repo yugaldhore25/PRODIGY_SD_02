@@ -1,6 +1,6 @@
 #PRODIGY_SD_02
 # GUSSING GAME
-I am a Software Development Intern. Date 1st September 2024 to 30th September 2024.
+I am a Software Development Intern. Duration :- 1st September 2024 to 30th September 2024.
 <br>
 This is my 2nd task of my internship in PRODIGY INFOTECH.
 <br>
