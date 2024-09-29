@@ -40,4 +40,4 @@ def game():
             guess = int(input('\n'"Guess the number again:"))
     
         print('\n'"Congratulations."'\n',f"{Number} is the correct guess."'\n', f"Congrats you guess the correct number in {attempts} attempts.")
-game()
+game() 
